@@ -1,5 +1,5 @@
 [ignore]
-.*dist.*
+. dist.*
 .*docs/.*
 .*examples/.*
 .*src/objects/serverside
@@ -16,3 +16,4 @@
 exact_by_default=false
 
 [strict]
+ 
